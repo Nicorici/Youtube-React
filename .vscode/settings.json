@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.proxy": {
+        "enable": true,
+        "baseUri": "/Videos",
+        "proxyUri": "http://127.0.0.1:5001"
+    },
+    "git.ignoreLimitWarning": true
+}
